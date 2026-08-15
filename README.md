@@ -55,6 +55,7 @@ This work explores graph-based representations that connect heterogeneous views 
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Herdeny/Lord-of-Mysteries">🔮 Project Mystery</a></h3>
       <p><code>Java</code> <code>Minecraft Forge</code></p>
+      <p>🤝 <strong>Co-creator / 共同创作者：</strong> <a href="https://github.com/Zijian-Ni">@Zijian-Ni</a></p>
       <p>
         以魔药、序列、调查、仪式和失控风险为核心的复杂生存冒险系统。<br />
         <em>A systems-heavy survival mod built around coherent mechanics, state safety, and recovery paths.</em>
