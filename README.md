@@ -104,6 +104,8 @@ This work explores graph-based representations that connect heterogeneous views 
 - 实践 Agent 的规划、工具调用、记忆与评测 / Build and evaluate agent planning, tool-use, and memory workflows
 - 持续完成可复现、可维护的研究与工程项目 / Continue producing reproducible research and maintainable software
 
-## 🔗 Links / 链接
+## 📬 Contact / 联系方式
 
-- GitHub: [github.com/Herdeny](https://github.com/Herdeny)
+- **Primary Email / 主邮箱：** [wuzhaohe@zju.edu.cn](mailto:wuzhaohe@zju.edu.cn)
+- **Alternative Email / 备用邮箱：** [wuzhaohe18@163.com](mailto:wuzhaohe18@163.com)
+- **Google Scholar / 谷歌学术：** [View profile / 查看主页](https://scholar.google.com/citations?user=niNXY4oAAAAJ&hl=zh-CN)
