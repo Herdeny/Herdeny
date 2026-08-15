@@ -50,20 +50,44 @@ This work explores graph-based representations that connect heterogeneous views 
 以下卡片展示了我在复杂系统、桌面工具、应用型 AI 与数据实践方面的代表工作。  
 *Selected work across complex systems, native utilities, applied AI, and practical data projects.*
 
-<p align="center">
-  <a href="https://github.com/Herdeny/Lord-of-Mysteries">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Herdeny&repo=Lord-of-Mysteries&hide_border=true&theme=transparent&description_lines_count=2" alt="Project Mystery repository card" />
-  </a>
-  <a href="https://github.com/Herdeny/MySpeed-MacOS">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Herdeny&repo=MySpeed-MacOS&hide_border=true&theme=transparent&description_lines_count=2" alt="MySpeed macOS repository card" />
-  </a>
-  <a href="https://github.com/Herdeny/HealthAi">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Herdeny&repo=HealthAi&hide_border=true&theme=transparent&description_lines_count=2" alt="HealthAI repository card" />
-  </a>
-  <a href="https://github.com/Herdeny/BigData">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Herdeny&repo=BigData&hide_border=true&theme=transparent&description_lines_count=2" alt="BigData repository card" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Herdeny/Lord-of-Mysteries">🔮 Project Mystery</a></h3>
+      <p><code>Java</code> <code>Minecraft Forge</code></p>
+      <p>
+        以魔药、序列、调查、仪式和失控风险为核心的复杂生存冒险系统。<br />
+        <em>A systems-heavy survival mod built around coherent mechanics, state safety, and recovery paths.</em>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Herdeny/MySpeed-MacOS">📶 MySpeed macOS</a></h3>
+      <p><code>JavaScript</code> <code>macOS</code></p>
+      <p>
+        支持 Apple Silicon 与 Intel Mac 的原生菜单栏网络质量监测工具。<br />
+        <em>A native menu bar network monitor with scheduled tests, history, and multiple providers.</em>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Herdeny/HealthAi">🩺 HealthAI</a></h3>
+      <p><code>Java</code> <code>Applied AI</code></p>
+      <p>
+        面向神经系统失调与认知损伤的早期预警和诊疗辅助决策探索。<br />
+        <em>Applied AI for early warning and clinical decision support in neurological health.</em>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Herdeny/BigData">📊 BigData</a></h3>
+      <p><code>Python</code> <code>Data</code></p>
+      <p>
+        覆盖数据处理、分析与结果展示的完整大数据实践项目。<br />
+        <em>A practical data project covering the path from raw data to usable results.</em>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 🧰 Skills & Direction / 技能与方向
 
