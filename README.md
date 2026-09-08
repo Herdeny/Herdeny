@@ -10,16 +10,16 @@
   <img src="https://img.shields.io/badge/CODING%20SINCE-2020-06B6D4?style=for-the-badge&labelColor=555555" alt="Coding since 2020" />
 </p>
 
-我关注图表示学习、组学数据与机器学习，正在向算法与 Agent 开发方向持续学习。我希望把严谨的研究方法与可靠的软件工程结合起来，完成能够复现、维护和真正使用的工作。
+我关注图表示学习、组学数据与机器学习，也在持续构建 Agent 工具、插件生态与质量保障能力。我希望把严谨的研究方法与可靠的软件工程结合起来，完成能够复现、维护和真正使用的工作。
 
-I am interested in graph representation learning, omics data, and machine learning, and I am working toward algorithm and AI agent development. I aim to combine rigorous research with reliable software engineering to build work that is reproducible, maintainable, and useful.
+I am interested in graph representation learning, omics data, and machine learning, while building agent tooling, plugin ecosystems, and quality assurance workflows. I aim to combine rigorous research with reliable software engineering to build work that is reproducible, maintainable, and useful.
 
 ## 📌 Current Status / 当前状态
 
 - 📚 **Study / 学习：** Algorithms, machine learning, deep learning, and graph neural networks / 算法、机器学习、深度学习与图神经网络
 - 🔬 **Research / 研究：** Multi-view graph representation learning for blood omics data / 面向血液组学数据的多视角图表示学习
-- 🤖 **Exploring / 探索：** Agent planning, tool use, memory, workflows, and evaluation / Agent 的规划、工具调用、记忆、工作流与评测
-- 🛠️ **Building / 工程：** Practical software and stateful systems in Java, Python, and JavaScript / 使用 Java、Python 与 JavaScript 构建实用软件和复杂状态系统
+- 🤖 **Exploring / 探索：** Agent tooling, plugin ecosystems, workflows, and evaluation / Agent 工具、插件生态、工作流与评测
+- 🛠️ **Building / 工程：** Practical agent tools and stateful systems in Python, TypeScript, Java, and JavaScript / 使用 Python、TypeScript、Java 与 JavaScript 构建实用 Agent 工具和复杂状态系统
 
 ## 👋 About / 关于我
 
@@ -47,8 +47,8 @@ This work explores graph-based representations that connect heterogeneous views 
 
 ## 🚀 Selected Projects / 代表项目
 
-以下卡片展示了我在复杂系统、桌面工具、应用型 AI 与数据实践方面的代表工作。  
-*Selected work across complex systems, native utilities, applied AI, and practical data projects.*
+以下卡片展示了我在复杂系统、Agent 工具、插件生态与桌面工具方面的代表工作。<br>
+*Selected work across complex systems, agent tooling, plugin ecosystems, and native utilities.*
 
 <table>
   <tr>
@@ -57,8 +57,26 @@ This work explores graph-based representations that connect heterogeneous views 
       <p><code>Java</code> <code>Minecraft Forge</code></p>
       <p>🤝 <strong>Co-creator / 共同创作者：</strong> <a href="https://github.com/Zijian-Ni">@Zijian-Ni</a></p>
       <p>
-        以魔药、序列、调查、仪式和失控风险为核心的复杂生存冒险系统。<br />
-        <em>A systems-heavy survival mod built around coherent mechanics, state safety, and recovery paths.</em>
+        以魔药、序列、调查、仪式和跨系统安全为核心的 Forge 1.20.1 生存冒险 Mod。<br />
+        <em>A systems-heavy Forge mod built around pathways, investigation, rituals, and safe recovery paths.</em>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Herdeny/awesome-dsh-plugins-2026">🧩 awesome-dsh-2026</a></h3>
+      <p><code>Python</code> <code>Agent Ecosystem</code></p>
+      <p>
+        面向 DeepSeek Harness 的持续维护插件生态清单，并结合 dsh-qc 提供质量评分。<br />
+        <em>A continuously curated DeepSeek Harness plugin ecosystem with quality signals from dsh-qc.</em>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Herdeny/dsh-qc">🛡️ dsh-qc</a></h3>
+      <p><code>TypeScript</code> <code>GitHub Action</code></p>
+      <p>
+        面向 DSH 插件的静态预检、动态验证与可追溯质量评分工具，可接入 CI。<br />
+        <em>Static checks, dynamic verification, and evidence-backed quality scores for DSH plugins and CI.</em>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -70,38 +88,20 @@ This work explores graph-based representations that connect heterogeneous views 
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Herdeny/HealthAi">🩺 HealthAI</a></h3>
-      <p><code>Java</code> <code>Applied AI</code></p>
-      <p>
-        面向神经系统失调与认知损伤的早期预警和诊疗辅助决策探索。<br />
-        <em>Applied AI for early warning and clinical decision support in neurological health.</em>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Herdeny/BigData">📊 BigData</a></h3>
-      <p><code>Python</code> <code>Data</code></p>
-      <p>
-        覆盖数据处理、分析与结果展示的完整大数据实践项目。<br />
-        <em>A practical data project covering the path from raw data to usable results.</em>
-      </p>
-    </td>
-  </tr>
 </table>
 
 ## 🧰 Skills & Direction / 技能与方向
 
-- **Programming / 编程：** Python · Java · JavaScript
+- **Programming / 编程：** Python · TypeScript · Java · JavaScript
 - **Research / 研究：** Graph Learning · Multi-view Learning · Omics Data
-- **Engineering / 工程：** System Design · Testing · Documentation · Recovery Paths
+- **Engineering / 工程：** Agent Tooling · Plugin QA · CI · System Design · Testing
 - **Next / 下一步：** Algorithms · Deep Learning · AI Agent Development
 
 ## 🗺️ Roadmap / 近期计划
 
 - 夯实算法、机器学习与深度学习基础 / Strengthen foundations in algorithms, machine learning, and deep learning
 - 深入学习图神经网络与多视角表示学习 / Study graph neural networks and multi-view representation learning
-- 实践 Agent 的规划、工具调用、记忆与评测 / Build and evaluate agent planning, tool-use, and memory workflows
+- 持续建设 Agent 工具、插件生态与质量保障工作流 / Continue building agent tooling, plugin ecosystems, and quality assurance workflows
 - 持续完成可复现、可维护的研究与工程项目 / Continue producing reproducible research and maintainable software
 
 ## 📬 Contact / 联系方式
